@@ -3,11 +3,11 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="https://anirudhtantry.netlify.app/">anirudhtantry.netlify.app</a>
+  <a href="https://anirudhtantry.me">anirudhtantry.me</a>
 </h2>
 
 <div align="center">
-  <a href="https://anirudhtantry.netlify.app/">
+  <a href="https://anirudhtantry.me">
     <img alt="Mockup" src="images/mockup.png" />
   </a>
 </div>
@@ -35,7 +35,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://anirudhtantry.netlify.app/)**
+To view a live example, **[click here](https://anirudhtantry.me)**
 
 ## Tools Used 🛠️
 
